@@ -9,5 +9,5 @@
 import Foundation
 
 struct APIkeys {
-    // keys go here
+    // taken out for GitHub
 }
