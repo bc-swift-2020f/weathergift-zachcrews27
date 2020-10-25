@@ -9,5 +9,5 @@
 import Foundation
 
 struct APIkeys {
-    // taken out for GitHub
+    // (Hiding API Keys)
 }
